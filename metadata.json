@@ -1,0 +1,6 @@
+{
+  "name": "NAKES DESA KRINGA",
+  "description": "Aplikasi Pendataan Kesehatan Warga Real-Time & 12 SPM Desa Kringa oleh Gabriela Ana Lewar, S.Kep., Ns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
